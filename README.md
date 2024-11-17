@@ -1,6 +1,9 @@
-[L(MasterHead] ([https://1.bp.blogspot.com/-7A4wynwLsMw/XbBpCX8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGb11hSu2SDj_Mig85XJQCLcBGAsYHQ/s1600/2000_600px.gif](https://gifdb.com/images/file/ai-humanoid-carrying-world-c605cn7kytlpgtqu.gif))]
+
 <h1 align="center">Hi, I'm Tom</h1>
 <h3 align="center">A bachelor student at the University of Montreal in Math and CS</h3>
+
+
+<img src="https://your-working-image-url.com" alt="MasterHead" width="100%" />
 
 - 🧑🏼‍💻 I’m currently working on **image classification to identify retinal diseases**
 
