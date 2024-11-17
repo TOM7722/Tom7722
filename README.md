@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">A bachelor student at Udem in Math and CS</h3>
+<h1 align="center">Hi, I'm Tom</h1>
+<h3 align="center">A bachelor student at the University of Montreal in Math and CS</h3>
 
 - 🧑🏼‍💻 I’m currently working on **image classification to identify retinal diseases**
 
