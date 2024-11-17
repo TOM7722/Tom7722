@@ -3,7 +3,7 @@
 <h3 align="center">A bachelor student at the University of Montreal in Math and CS</h3>
 
 
-<img src="https://your-working-image-url.com" alt="MasterHead" width="100%" />
+<img src="[https://your-working-image-url.com](https://gifdb.com/images/file/ai-humanoid-carrying-world-c605cn7kytlpgtqu.gif)" alt="MasterHead" width="100%" />
 
 - 🧑🏼‍💻 I’m currently working on **image classification to identify retinal diseases**
 
