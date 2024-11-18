@@ -1,8 +1,8 @@
-<img src="https://gifdb.com/images/file/ai-humanoid-carrying-world-c605cn7kytlpgtqu.gif" alt="MasterHead" width="100%" />
+<img src="https://gifdb.com/images/file/ai-humanoid-carrying-world-c605cn7kytlpgtqu.gif" alt="MasterHead" width="100%" height="200px" />
 <h1 align="center">Hi, I'm Tom</h1>
 <h3 align="center">A bachelor student at the University of Montreal in Math and CS</h3>
 
-
+<div style="display: grid; place-items: center;">
 <img src="https://gifdb.com/images/file/ai-humanoid-carrying-world-c605cn7kytlpgtqu.gif" alt="MasterHead" width="80%" />
 
 - 🧑🏼‍💻 I’m currently working on **image classification to identify retinal diseases**
