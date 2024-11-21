@@ -5,8 +5,6 @@
 
 - 🧑🏼‍💻 I'm currently working on [**image classification to identify retinal diseases**](https://www.kaggle.com/competitions/ift3395-ift6390-identification-maladies-retine#)
 
-- 🎓 I’m currently taking **Analysis 1 (Mat 1000), Fondements de l'apprentissage (ift 3395), Modèle Stochastique (ift 3655), Data Science (ift 3700)**
-
 - 📫 How to reach me **tom.stanic@umontreal.ca**
 
 <h3 align="left">Languages and Tools:</h3>
