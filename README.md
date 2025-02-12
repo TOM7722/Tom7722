@@ -3,8 +3,6 @@
 
 <div style="display: grid; place-items: center;">
 
-- 🧑🏼‍💻 I'm currently working on [**image classification to identify retinal diseases**](https://www.kaggle.com/competitions/ift3395-ift6390-identification-maladies-retine#)
-
 - 📫 How to reach me **tom.stanic@umontreal.ca**
 
 <h3 align="left">Languages and Tools:</h3>
