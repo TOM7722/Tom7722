@@ -1,9 +1,18 @@
 <h1 align="center">Hi, I'm Tom</h1>
 <h3 align="center">A bachelor student at the University of Montreal in Math and CS</h3>
 
-<div style="display: grid; place-items: center;">
 
-- 📫 How to reach me **tom.stanic@umontreal.ca**
+
+## Projects
+
+### Cooperation or Defection in 3D Multi-Agent Learning
+
+  This project explores cooperation dynamics in complex social dilemmas using Multi-Agent Reinforcement Learning (MARL). We reimplemented the Wolfpack game in a 3D continuous action space using Unity, enhancing realism through ray-casting vision, memory (LSTM), and sensory inputs. Our predators (agents) learn to hunt a prey either solo or in coordinated pairs, under various reward structures and sensory setups. We investigated the effects of visual parameters, reward shaping, memory size, and even simulated smell on emergent behaviors. Surprisingly, agents often defaulted to defection despite higher group rewards, highlighting the difficulty of fostering real cooperation in realistic environments. This project bridges the gap between simplified MARL benchmarks and real-world coordination challenges.
+
+  [GitHub Repository](https://github.com/andreamiele/marl-ssd-3d)
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -51,6 +60,10 @@
   </a>
 
 </p>
+
+<div style="display: grid; place-items: center;">
+
+How to reach me **tom.stanic@umontreal.ca**
 
 
 
