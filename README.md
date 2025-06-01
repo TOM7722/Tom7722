@@ -1,5 +1,5 @@
 # Hi, I'm Tom  
-### A bachelor student at the University of Montreal in Math and CS
+### A bachelor student at the University of Montreal in Mathematics and Computer Science
 
 ## Projects
 
