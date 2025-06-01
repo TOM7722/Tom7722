@@ -21,6 +21,24 @@ This project explores classical machine learning approaches for binary text clas
 
 [Report](https://github.com/TOM7722/Tom7722/blob/main/IFT3395_kaggle.pdf)
 
+### 🎨 Graph Coloring via Gibbs Sampling
+
+This project applies Gibbs Sampling to solve the K-coloring problem on graphs, exploring probabilistic methods for graph coloring. It implements both systematic and random sampling strategies, and includes a statistical comparison of these approaches. Results show that systematic sampling offers improved uniformity in color assignments across large iterations.
+
+[GitHub Repository](https://github.com/TOM7722/Gibbs-Sampling-for-k-coloring-Graph)
+
+
+
+
+### 📊 Poisson Distribution Generator
+
+A custom implementation of a Poisson random number generator using the inversion method with the high-quality MRG32K3a random number generator. The project supports both sequential and indexed search strategies, offering insights into efficient distribution sampling methods.
+
+[GitHub Repository](https://github.com/TOM7722/poisson-mrg32k3a-generator)
+
+
+
+
 ## Education  
 #### Université de Montréal  
 GPA: 3.818 / 4.3 (unofficial) • [Transcript in french (PDF)](https://github.com/TOM7722/Tom7722/blob/main/Transcript.pdf)
