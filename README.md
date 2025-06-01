@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Tom</h1>
-<h3 align="center">A bachelor student at the University of Montreal in Math and CS</h3>
-
-
+# Hi, I'm Tom  
+### A bachelor student at the University of Montreal in Math and CS
 
 ## Projects
 
@@ -23,8 +21,15 @@ This project explores classical machine learning approaches for binary text clas
 
 [Report](https://github.com/TOM7722/Tom7722/blob/main/IFT3395_kaggle.pdf)
 
+## Education  
+#### Université de Montréal  
+GPA: 3.818 / 4.3 (unofficial) • [Transcript in french (PDF)](https://github.com/TOM7722/Tom7722/blob/main/Transcript.pdf)
+#### École Polytechnique Fédérale de Lausanne (EPFL)
+Exchange program – In progress
 
-## Languages and Tools:</h3>
+
+
+## Languages and Tools
 <p align="left">
   <!-- Existing tools -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -73,7 +78,8 @@ This project explores classical machine learning approaches for binary text clas
 
 <div style="display: grid; place-items: center;">
 
-How to reach me **tom.stanic@umontreal.ca**
+### How to reach me 
+**tom.stanic@umontreal.ca**
 
 
 
