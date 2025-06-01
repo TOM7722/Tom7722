@@ -13,7 +13,7 @@
 
 BlockRL explores how reinforcement learning agents can learn to build physically stable 2D structures (like bridges and towers) by strategically placing blocks under strict spatial and physics constraints. We introduce an action masking mechanism to filter out invalid and unstable actions, significantly improving sample efficiency and policy quality. Our environments simulate rigid-body physics, and agents are trained using RL algorithms such as PPO, DQN, and custom Masked-PPO. Masked-PPO outperformed all others, learning to build more complex, stable structures with less trial-and-error. This work contributes toward applying RL to real-world robotic construction tasks and opens doors to 3D extensions and adaptive policies.
 
-[Poster](https://github.com/TOM7722/Tom7722/blob/main/BlockRL_poster.pdf) / [Report](https://github.com/TOM7722/Tom7722/blob/main/BlockRL.pdf) / [GitHub Repository](https://github.com/rayangdn/BlockAssembly)
+[Poster](https://github.com/TOM7722/Tom7722/blob/main/BlockRL_poster.pdf) / [Report](https://github.com/TOM7722/Tom7722/blob/main/BlockRL.pdf) / 
 
 ### 🧾 Text Classification with Traditional ML
 
