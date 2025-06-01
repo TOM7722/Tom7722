@@ -7,7 +7,7 @@
 
   This project explores cooperation dynamics in complex social dilemmas using Multi-Agent Reinforcement Learning (MARL). We reimplemented the Wolfpack game in a 3D continuous action space using Unity, enhancing realism through ray-casting vision, memory (LSTM), and sensory inputs. Our predators (agents) learn to hunt a prey either solo or in coordinated pairs, under various reward structures and sensory setups. We investigated the effects of visual parameters, reward shaping, memory size, and even simulated smell on emergent behaviors. Surprisingly, agents often defaulted to defection despite higher group rewards, highlighting the difficulty of fostering real cooperation in realistic environments. This project bridges the gap between simplified MARL benchmarks and real-world coordination challenges.
 
- [Report](https://github.com/TOM7722/Tom7722/blob/main/Cooperation%20or%20Defection%20Multi-Agent%20Learning%20.pdf) / [GitHub Repository](https://github.com/andreamiele/marl-ssd-3d)
+ [Report](https://github.com/TOM7722/Tom7722/blob/main/Cooperation_or_Defection_Multi-Agent_Learning.pdf) / [GitHub Repository](https://github.com/andreamiele/marl-ssd-3d)
 
 ### 🧱 BlockRL: Reinforcement Learning for Structural Block Assembly
 
